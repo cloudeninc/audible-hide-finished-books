@@ -20,3 +20,7 @@ on the website.
 To install this open source version, please follow Google Chrome's
 developer tutorial on how to use Load Unpacked to add an extension:
 https://developer.chrome.com/extensions/getstarted
+
+## About Clouden
+
+If you are interested in Clouden's online services, please visit us at https://clouden.net
